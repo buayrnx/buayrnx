@@ -1,4 +1,3 @@
-[![MasterHead](https://tr.pinterest.com/pin/567523990538356835/)
 <h1 align="center">Hi, I'm Buse 👋</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
